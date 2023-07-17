@@ -9,5 +9,6 @@ for (var i = 1; i <= totalAlunos; i++) {
   var sexo = prompt("Digite o sexo (M ou F) do aluno " + i + ":");
   somaNotas<=nota
   console.log('a')
+  console.log("segundo commit")
 
 }
